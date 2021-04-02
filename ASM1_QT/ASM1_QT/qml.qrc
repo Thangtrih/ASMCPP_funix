@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/background.png</file>
+        <file>Image/Bui-Anh-Tuan.png</file>
+        <file>Image/center_point.png</file>
+        <file>Image/Ha-Anh-Tuan.png</file>
+        <file>Image/hold-next.png</file>
+        <file>Image/hold-pause.png</file>
+        <file>Image/hold-play.png</file>
+        <file>Image/hold-prev.png</file>
+        <file>Image/hold.png</file>
+        <file>Image/Hongkong1.png</file>
+        <file>Image/music.png</file>
+        <file>Image/next.png</file>
+        <file>Image/pause.png</file>
+        <file>Image/phoKhongMua.png</file>
+        <file>Image/play.png</file>
+        <file>Image/playing.png</file>
+        <file>Image/playlist.png</file>
+        <file>Image/playlist_item.png</file>
+        <file>Image/point.png</file>
+        <file>Image/prev.png</file>
+        <file>Image/progress_bar.png</file>
+        <file>Image/progress_bar_bg.png</file>
+        <file>Image/repeat.png</file>
+        <file>Image/repeat1_hold.png</file>
+        <file>Image/shuffle-1.png</file>
+        <file>Image/shuffle.png</file>
+        <file>Image/title.png</file>
+        <file>Image/USB Mussic.png</file>
+        <file>ReadMe</file>
+    </qresource>
+</RCC>
